@@ -13,7 +13,7 @@ marker_size = 7
 
 plot_size = (600, 450)
 
-figure_path = "Figures/Figure_4/"
+figure_path = "Figures/Figure_5/"
 if !isdir(figure_path)
 	mkpath(figure_path)
 end
