@@ -21,7 +21,7 @@ Random.seed!(100)
 true_D = 1
 n = 25
 dims = 10
-num_trials = 2
+num_trials = 100
 dt_time_series = 0.2
 linear_velocity_matrix = randn(dims, dims)
 
