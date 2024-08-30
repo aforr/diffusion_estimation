@@ -1,6 +1,6 @@
 # Diffusion matrix estimation
 
-This repository contains Python and Julia scripts to reproduce figures in an accompanying paper on estimating the diffusion term of a Fokker-Planck equation given samples from the marginals and an estimate of the drift term.
+This repository contains Python and Julia scripts to reproduce figures in an accompanying paper (http://arxiv.org/abs/2408.14408) on estimating the diffusion term of a Fokker-Planck equation given samples from the marginals and an estimate of the drift term.
 
 To recreate Figure 1, 3, or 4, create a Julia environment with the appropriate packages and run the corresponding script. PDF files corresponding to figure X will be saved in `Figures/Figure_X/`.
 
